@@ -4,8 +4,8 @@
   "name": "3look Docs",
   "colors": {
     "primary": "#b492ef",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#b492ef",
+    "dark": "#b492ef"
   },
   "favicon": "/favicon.svg",
   "navigation": {
