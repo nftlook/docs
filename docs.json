@@ -12,13 +12,13 @@
     "groups": [
       {
         "group": "Guides",
-        "pages":[
+        "pages": [
           "index",
           "quickstart",
           "development"
         ]
       }
-    ],
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
