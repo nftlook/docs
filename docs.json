@@ -11,11 +11,16 @@
   "navigation": {
     "groups": [
       {
-        "group": "Guides",
+        "group": "Overview",
         "pages": [
-          "index",
-          "quickstart",
-          "development"
+          "overview/the_ai_app",
+          "overview/what_makes_different",
+          "overview/faq",
+          "overview/all_in_one",
+          "overview/manifesto",
+          "overview/how_it_works",
+          "overview/lookz",
+          "overview/how_to_earn"
         ]
       }
     ]
